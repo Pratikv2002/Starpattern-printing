@@ -1,0 +1,2 @@
+# Starpattern-printing
+              Star pattern
